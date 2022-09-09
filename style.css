@@ -52,7 +52,10 @@
     border: 1px solid #ccc;
   }
 }
-
+.cropp{
+     width: 55px; 
+     height: 55px; 
+}
   .cropped {
     margin-top: 10px;
     display: block;
