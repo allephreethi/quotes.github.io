@@ -53,7 +53,10 @@
   }
 }
 
-
+.cropp{
+width: 35px; 
+height: 40px; 
+}
 
   .cropped {
     margin-top: 10px;
